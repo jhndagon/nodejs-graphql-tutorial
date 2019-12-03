@@ -2,5 +2,4 @@
 
 ## Paso 2
 
-Añadimos las librerias graphql, express-graphql
-Usamos el comando npm i graphql express-graphql
+* Creacion del proyecto y agragada libreria de express
