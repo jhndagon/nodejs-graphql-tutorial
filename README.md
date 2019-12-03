@@ -1,5 +1,5 @@
 # Proyeto para presentacion del dojo Empresariales
 
-## Paso 2
+## Paso 1
 
 * Creacion del proyecto y agragada libreria de express
