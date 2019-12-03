@@ -1,6 +1,5 @@
 # Proyeto para presentacion del dojo Empresariales
 
-## Paso 2
+## Paso 3
 
-Añadimos las librerias graphql, express-graphql
-Usamos el comando npm i graphql express-graphql
+* Definiendo schema Book en el proyecto
