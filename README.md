@@ -1,5 +1,5 @@
 # Proyeto para presentacion del dojo Empresariales
 
-## Paso 3
+## Paso 4
 
-* Definiendo schema Book en el proyecto
+* Definiendo root query de Book en el proyecto
